@@ -1,6 +1,8 @@
 # Hitch Font
 Neo Grotesque Font
 
+![Multi master animation](mm.gif)
+
 * Extra Condensed Styles
 * Thin Styles
 * Extra Black Styles
@@ -17,6 +19,7 @@ Neo Grotesque Font
 # Licence
 Hitch Grotesk is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)
 To view the copyright and specific terms and conditions please refer to [OFL.txt](/OFL.txt)
+
 
 
 
