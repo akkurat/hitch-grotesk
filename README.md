@@ -1,5 +1,5 @@
 # Download
-Font can be downloaded under [releases](/releases "Go to Releases")
+Font can be downloaded under [releases](releases/ "Go to Releases")
 
 To Play with the font (and variable fonts) I recomend <https://www.axis-praxis.org/>
 
